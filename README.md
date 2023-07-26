@@ -4,4 +4,4 @@
 
 ### follow me on [LinkedIn](https://www.linkedin.com/in/sahjahan-ahmed/)
 
-### Get the deployed version [here](https://www.vidly.netlify.app)
+### Get the deployed version [here](https://vidly-4u.netlify.app/browse)
