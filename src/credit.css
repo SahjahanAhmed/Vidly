@@ -1,0 +1,40 @@
+.credit-div {
+  position: absolute;
+  right: 1.8rem;
+  top: -1rem;
+  background-color: #222;
+  padding: 0.5rem 0;
+  border-radius: 1rem;
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  z-index: 9999 !important;
+  font-size: 0.8rem;
+  box-shadow: 0 0 4px white;
+}
+
+.credit-div * {
+  color: #fff;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 1.3rem;
+}
+
+.icons > a:hover {
+  transform: scale(1.2);
+}
+
+.credit-div a {
+  transition: all 0.15s ease-in-out;
+  text-decoration: none;
+}
+
+.developed-by a {
+  font-size: 1.1rem;
+}
